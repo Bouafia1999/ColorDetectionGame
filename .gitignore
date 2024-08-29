@@ -1,0 +1,10 @@
+# Ignorer les fichiers volumineux de Visual Studio
+.vs/
+*.ipch
+*.pdb
+*.obj
+*.log
+*.ilk
+*.ncb
+*.suo
+*.sdf
